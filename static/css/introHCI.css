@@ -16,9 +16,21 @@ body {
      padding: 20px;
 }
 
+.project {
+     margin-left: 20px;
+     background-color: #d0e7f7;
+     padding: 30px;
+     width: 520px;
+}
+
 .jumbotron {
 	position: relative;
-	background: none;
+     background: none;
+     color: #1e6ea7;
+}
+
+.jumbotron h1 {
+	color: #388a57;
 }
 
 .jumbotron:after {
